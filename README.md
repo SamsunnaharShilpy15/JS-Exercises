@@ -18,7 +18,7 @@
 
 **Write a function that checks if a given string is a valid e-mail address.**
 
-HINT: /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
+HINT: (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*\.\w{2,3})+$/
 
 ------
 
